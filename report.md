@@ -1,7 +1,7 @@
-Name: Amos Cheruiyot
+Name: Amos Cheruiyot<br>
 Registration Number: i39/2479/2014
 
-<centre>2 BY 4 DECODER</centre>
+<u>2 BY 4 DECODER</u>
 
 This is a 2-by-4 decoder tutorial,  which is a makefile project and so no need for an IDE. 
 Just cd into this folder and run the command 
